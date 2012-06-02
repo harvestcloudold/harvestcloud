@@ -27,5 +27,5 @@ Contributing
 If you'd like to contribute to the project, please email tom (at) harvestcloud
 (dot) com
 
-[1] http://symfony.com
-[2] http://github.com/harvestcloud/CoreBundle
+[1]: http://symfony.com
+[2]: http://github.com/harvestcloud/CoreBundle
