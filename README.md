@@ -11,9 +11,9 @@ eaters to connect and do business.
 The application is made up of a collection of [Symfony2][1] bundles:
 
   * [CoreBundle][2]
-  * MarketPlace\BuyerBundle
-  * MarketPlace\SellerBundle
-  * MarketPlace\HubBundle
+  * [MarketPlace][3]\BuyerBundle
+  * [MarketPlace][3]\SellerBundle
+  * [MarketPlace][3]\HubBundle
 
 Installation
 ------------
@@ -45,3 +45,4 @@ If you'd like to contribute to the project, please email tom (at) harvestcloud
 
 [1]: http://symfony.com
 [2]: http://github.com/harvestcloud/CoreBundle
+[3]: http://github.com/harvestcloud/MarketPlace
