@@ -21,6 +21,22 @@ Installation
 There is no easy way to install the project just yet, but if you're interested,
 please contact tom (at) harvestcloud (dot) com.
 
+Volunteers Welcome
+------------------
+
+We're always grateful to anyone who wants to lend a hand:
+
+  * Github gurus - we're new to github, so any suggestions/corrections/gentle
+criticisms most welcome
+  * jQuery magicians - we're down with PHP, but when it comes to jquery,
+we seem to have got stuck at the back of the queue
+  * pre-pre-alpha testers - it's still not finished, but there's always bits
+and pieces to test and critique
+  * logo crafters - we're not necessarily looking for a logo, but feel free to
+offer your suggestions...
+
+Thanks in advance!
+
 Contributing
 ------------
 
