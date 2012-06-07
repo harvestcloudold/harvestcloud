@@ -15,6 +15,13 @@ The application is made up of a collection of [Symfony2][1] bundles:
   * [MarketPlace][3]\SellerBundle
   * [MarketPlace][3]\HubBundle
 
+
+Follow development
+------------------
+
+You can follow the development of the Harvest Cloud on [github][4], or on
+Twitter [@harvestclouddev][5]
+
 Installation
 ------------
 
@@ -46,3 +53,5 @@ If you'd like to contribute to the project, please email tom (at) harvestcloud
 [1]: http://symfony.com
 [2]: http://github.com/harvestcloud/CoreBundle
 [3]: http://github.com/harvestcloud/MarketPlace
+[4]: http://github.com/harvestcloud/harvestcloud
+[5]: http://twitter.com/harvestclouddev
