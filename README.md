@@ -20,7 +20,7 @@ Follow development
 ------------------
 
 You can follow the development of the Harvest Cloud on [github][4], or on
-Twitter [@harvestclouddev][5]
+Twitter [@harvestcloud][5] [@harvestclouddev][6]
 
 Installation
 ------------
@@ -33,14 +33,13 @@ Volunteers Welcome
 
 We're always grateful to anyone who wants to lend a hand:
 
+  * Symfony2 developers
   * Github gurus - we're new to github, so any suggestions/corrections/gentle
 criticisms most welcome
   * jQuery magicians - we're down with PHP, but when it comes to jquery,
 we seem to have got stuck at the back of the queue
   * pre-pre-alpha testers - it's still not finished, but there's always bits
 and pieces to test and critique
-  * logo crafters - we're not necessarily looking for a logo, but feel free to
-offer your suggestions...
 
 Thanks in advance!
 
@@ -54,4 +53,5 @@ If you'd like to contribute to the project, please email tom (at) harvestcloud
 [2]: http://github.com/harvestcloud/CoreBundle
 [3]: http://github.com/harvestcloud/MarketPlace
 [4]: http://github.com/harvestcloud/harvestcloud
-[5]: http://twitter.com/harvestclouddev
+[5]: http://twitter.com/harvestcloud
+[6]: http://twitter.com/harvestclouddev
