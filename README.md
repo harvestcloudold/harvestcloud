@@ -15,6 +15,11 @@ The application is made up of a collection of [Symfony2][1] bundles:
   * [MarketPlace][3]\SellerBundle
   * [MarketPlace][3]\HubBundle
 
+Similar to
+----------
+
+  * [LocalDirt][7]
+  * [Good Eggs](http://goodeggs.com)
 
 Follow development
 ------------------
@@ -55,3 +60,4 @@ If you'd like to contribute to the project, please email tom (at) harvestcloud
 [4]: http://github.com/harvestcloud/harvestcloud
 [5]: http://twitter.com/harvestcloud
 [6]: http://twitter.com/harvestclouddev
+[7]: http://localdirt.com
