@@ -19,7 +19,8 @@
         "sensio/framework-extra-bundle": "~3.0",
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
-        "harvestcloud/core-bundle": "dev-master"
+        "harvestcloud/core-bundle": "dev-master",
+        "harvestcloud/user-bundle": "@dev"
     },
     "scripts": {
         "post-install-cmd": [
