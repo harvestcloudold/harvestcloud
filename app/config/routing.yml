@@ -1,0 +1,7 @@
+HarvestCloudCoreBundle:
+    resource: "@HarvestCloudCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+
+_welcome:
+    pattern:  /
+    defaults: { _controller: HarvestCloud\CoreBundle\Controller\Buyer\CategoryController::indexAction }
