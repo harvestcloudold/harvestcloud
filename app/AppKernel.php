@@ -18,6 +18,8 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new HarvestCloud\CoreBundle\HarvestCloudCoreBundle(),
             new HarvestCloud\GeoBundle\HarvestCloudGeoBundle(),
+            new HarvestCloud\UserBundle\HarvestCloudUserBundle(),
+            new FOS\UserBundle\FOSUserBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {

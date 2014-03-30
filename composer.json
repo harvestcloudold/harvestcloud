@@ -20,7 +20,8 @@
         "sensio/generator-bundle": "~2.3",
         "incenteev/composer-parameter-handler": "~2.0",
         "harvestcloud/core-bundle": "dev-master",
-        "harvestcloud/user-bundle": "@dev"
+        "harvestcloud/user-bundle": "@dev",
+        "friendsofsymfony/user-bundle": "@dev"
     },
     "scripts": {
         "post-install-cmd": [
