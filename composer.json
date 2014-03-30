@@ -21,6 +21,7 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "harvestcloud/core-bundle": "dev-master",
         "harvestcloud/user-bundle": "@dev",
+        "harvestcloud/theme-bundle": "dev-master",
         "friendsofsymfony/user-bundle": "@dev"
     },
     "scripts": {

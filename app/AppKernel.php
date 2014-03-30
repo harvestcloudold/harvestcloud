@@ -19,6 +19,7 @@ class AppKernel extends Kernel
             new HarvestCloud\CoreBundle\HarvestCloudCoreBundle(),
             new HarvestCloud\GeoBundle\HarvestCloudGeoBundle(),
             new HarvestCloud\UserBundle\HarvestCloudUserBundle(),
+            new HarvestCloud\ThemeBundle\HarvestCloudThemeBundle(),
             new Stof\DoctrineExtensionsBundle\StofDoctrineExtensionsBundle(),
             new FOS\UserBundle\FOSUserBundle(),
         );
