@@ -23,6 +23,7 @@
         "harvestcloud/user-bundle": "@dev",
         "harvestcloud/option-tree-bundle": "@dev",
         "harvestcloud/theme-bundle": "dev-master",
+        "harvestcloud/demo-bundle": "dev-master",
         "friendsofsymfony/user-bundle": "@dev"
     },
     "scripts": {
