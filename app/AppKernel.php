@@ -23,7 +23,6 @@ class AppKernel extends Kernel
             new HarvestCloud\DemoBundle\HarvestCloudDemoBundle(),
             new Stof\DoctrineExtensionsBundle\StofDoctrineExtensionsBundle(),
             new FOS\UserBundle\FOSUserBundle(),
-            new HarvestCloud\GeoBundle\HarvestCloudGeoBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
