@@ -25,11 +25,11 @@ security:
 
     access_control:
         - { path: ^/buy/checkout, role: ROLE_USER }
-        - { path: ^/_wdt,      role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/$,         role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/buy/cart,  role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/buy/food,  role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/buy/?$,    role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/login$,    role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/register,  role: IS_AUTHENTICATED_ANONYMOUSLY }
-        - { path: ^/resetting, role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/_wdt,         role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/$,            role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/buy/cart,     role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/buy/food,     role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/buy/?$,       role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/login$,       role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/register,     role: IS_AUTHENTICATED_ANONYMOUSLY }
+        - { path: ^/resetting,    role: IS_AUTHENTICATED_ANONYMOUSLY }
