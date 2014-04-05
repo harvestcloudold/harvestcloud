@@ -24,6 +24,7 @@ security:
             security: false
 
     access_control:
+        - { path: ^/buy/checkout, role: ROLE_USER }
         - { path: ^/_wdt,      role: IS_AUTHENTICATED_ANONYMOUSLY }
         - { path: ^/$,         role: IS_AUTHENTICATED_ANONYMOUSLY }
         - { path: ^/buy/cart,  role: IS_AUTHENTICATED_ANONYMOUSLY }
