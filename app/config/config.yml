@@ -29,6 +29,7 @@ twig:
     debug:            "%kernel.debug%"
     strict_variables: "%kernel.debug%"
     globals:
+        profileHandler: "@profile_handler"
         google_analytics_key: "%google_analytics_key%"
         google_api_key: "%google_api_key%"
 
